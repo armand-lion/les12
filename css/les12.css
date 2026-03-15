@@ -99,3 +99,7 @@ td {
     text-align: center;
     vertical-align: middle;
 }
+
+br {
+    line-height: 5px;
+}
